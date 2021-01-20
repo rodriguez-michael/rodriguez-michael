@@ -32,13 +32,3 @@
 <a href="https://github.com/rodriguez-michael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguez-michael&theme=react&show_icons=true" />
 </a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-<a href="https://www.michaelrodriguez.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.michaelrodriguez.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rodriguez-michael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael%20Rodriguez-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contact@michaelrodriguez.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@michaelrodriguez.dev-blue?style=flat-square&logo=gmail"></a>
-</p>
