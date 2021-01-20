@@ -32,4 +32,3 @@
 <a href="https://www.linkedin.com/in/rodriguez-michael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael%20Rodriguez-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contact@michaelrodriguez.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@michaelrodriguez.dev-blue?style=flat-square&logo=gmail"></a>
 </p>
-
