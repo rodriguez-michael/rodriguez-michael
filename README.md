@@ -24,7 +24,7 @@
 <br/>
 
 <a href="https://github.com/rodriguez-michael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguez-michael&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguez-michael&theme=default&show_icons=true" />
 </a>
 
 <br/>
