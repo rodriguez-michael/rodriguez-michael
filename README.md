@@ -13,6 +13,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
