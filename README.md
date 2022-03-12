@@ -27,8 +27,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
+ - ![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+ 
+<!-- <br/>
+//Stats with a grade
 <a href="https://github.com/rodriguez-michael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguez-michael&theme=react&show_icons=true" />
-</a>
+</a> -->
